@@ -1,0 +1,75 @@
+
+
+.index-body{
+    background-color:#F5F3E4;
+}
+.index-main{
+    margin-top: 20px;
+
+    padding: 20px;
+
+    background-color: rgb(255, 255, 255, 0.5);
+}
+.index-ultimas-noticias{
+
+}
+.index-ultimas-noticias-articulo{
+
+}
+.index-ultimas-noticias-articulo{
+    margin-bottom: 60px;
+}
+.index-ultimas-noticias-hr{
+    margin: 0 0 0;
+}
+.index-ultimas-noticias-articulo h3{
+    text-align: center;
+    position: relative;
+
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.index-ultimas-noticias-articulo h3 span{
+    position:absolute;
+    top: -5px;
+    left: 0;
+
+    font-size: 14px;
+}
+.index-ultimas-noticias-articulo h3 span small{
+    font-size:14px;
+}
+.index-ultimas-noticias-articulo h3 span span{
+    top: 16px;
+
+    font-weight: 500;
+}
+.index-ultimas-noticias-articulo h3 span span:last-child{
+    top: 31px;
+
+    font-weight: 200;
+}
+.index-ultimas-noticias-articulo-img{
+    margin: 20px 0;
+}
+/* .index-ultimas-noticias-articulo div{
+    height: 60px;
+    position: relative;
+} */
+.index-ultimas-noticias-articulo .autor{
+    position: absolute;
+    bottom: -10px;
+    right: 150px;
+}
+
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) {}
+
+@media (min-width: 992px) {
+    .index-menu{
+        padding-left: 75px;
+    }
+}
+
+@media (min-width: 1200px) {}
